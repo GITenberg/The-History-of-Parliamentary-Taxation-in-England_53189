@@ -1,0 +1,32 @@
+_repo: The-History-of-Parliamentary-Taxation-in-England_53189
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Smith, Theodore Clarke
+    alias: Smith, T. C. (Theodore Clarke)
+    birthdate: 1870
+    deathdate: 1960
+    gutenberg_agent_id: '9819'
+    url: http://www.gutenberg.org/2009/agents/9819
+creator:
+  author:
+    agent_name: Morgan, Shepard Ashman
+    gutenberg_agent_id: '47253'
+    url: http://www.gutenberg.org/2009/agents/47253
+description: ''
+gutenberg_issued: '2016-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53189'
+  lccn: '11007249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taxation -- Great Britain'
+- !lcc 'HJ'
+- !lcsh 'Taxation -- Great Britain -- History'
+- GITenberg
+title: The History of Parliamentary Taxation in England
+url: http://www.gutenberg.org/ebooks/53189
